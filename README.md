@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fariskt/leetcode-questions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/fariskt/leetcode-questions/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
