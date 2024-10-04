@@ -31,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/fariskt/leetcode-questions/tree/master/0742-to-lower-case) |
+| [2235-capitalize-the-title](https://github.com/fariskt/leetcode-questions/tree/master/2235-capitalize-the-title) |
 <!---LeetCode Topics End-->
