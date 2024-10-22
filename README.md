@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/fariskt/leetcode-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/fariskt/leetcode-questions/tree/master/2491-smallest-even-multiple) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
