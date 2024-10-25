@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
+| [3311-ant-on-the-boundary](https://github.com/fariskt/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fariskt/leetcode-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
+| [3311-ant-on-the-boundary](https://github.com/fariskt/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/fariskt/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
