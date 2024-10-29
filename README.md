@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/fariskt/leetcode-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/fariskt/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/fariskt/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/fariskt/leetcode-questions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/fariskt/leetcode-questions/tree/master/0742-to-lower-case) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/fariskt/leetcode-questions/tree/master/2235-capitalize-the-title) |
 ## Two Pointers
 |  |
