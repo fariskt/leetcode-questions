@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fariskt/leetcode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/fariskt/leetcode-questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/fariskt/leetcode-questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/fariskt/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fariskt/leetcode-questions/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fariskt/leetcode-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/fariskt/leetcode-questions/tree/master/2491-smallest-even-multiple) |
 ## Heap (Priority Queue)
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fariskt/leetcode-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
