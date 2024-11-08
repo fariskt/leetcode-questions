@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/fariskt/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/fariskt/leetcode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/fariskt/leetcode-questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/fariskt/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/fariskt/leetcode-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/fariskt/leetcode-questions/tree/master/0263-ugly-number) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fariskt/leetcode-questions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fariskt/leetcode-questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fariskt/leetcode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
