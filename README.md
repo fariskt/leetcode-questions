@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/fariskt/leetcode-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/fariskt/leetcode-questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/fariskt/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fariskt/leetcode-questions/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fariskt/leetcode-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/fariskt/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/fariskt/leetcode-questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/fariskt/leetcode-questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/fariskt/leetcode-questions/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fariskt/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/fariskt/leetcode-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/fariskt/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String
 |  |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/fariskt/leetcode-questions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 ## Counting
