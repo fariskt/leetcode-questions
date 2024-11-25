@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/fariskt/leetcode-questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/fariskt/leetcode-questions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/fariskt/leetcode-questions/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/fariskt/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fariskt/leetcode-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fariskt/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fariskt/leetcode-questions/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/fariskt/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
