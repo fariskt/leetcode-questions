@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/fariskt/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
+| [2058-concatenation-of-array](https://github.com/fariskt/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/fariskt/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fariskt/leetcode-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
