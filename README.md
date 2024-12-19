@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/fariskt/leetcode-questions/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/fariskt/leetcode-questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fariskt/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/fariskt/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fariskt/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fariskt/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
