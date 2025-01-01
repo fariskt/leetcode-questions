@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3194-find-words-containing-character](https://github.com/fariskt/leetcode-questions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/fariskt/leetcode-questions/tree/master/3311-ant-on-the-boundary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fariskt/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/fariskt/leetcode-questions/tree/master/1205-defanging-an-ip-address) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/fariskt/leetcode-questions/tree/master/2235-capitalize-the-title) |
+| [3194-find-words-containing-character](https://github.com/fariskt/leetcode-questions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/fariskt/leetcode-questions/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/fariskt/leetcode-questions/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
