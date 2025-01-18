@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
+| [0782-jewels-and-stones](https://github.com/fariskt/leetcode-questions/tree/master/0782-jewels-and-stones) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/fariskt/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/fariskt/leetcode-questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fariskt/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/fariskt/leetcode-questions/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/fariskt/leetcode-questions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/fariskt/leetcode-questions/tree/master/1205-defanging-an-ip-address) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/fariskt/leetcode-questions/tree/master/2235-capitalize-the-title) |
