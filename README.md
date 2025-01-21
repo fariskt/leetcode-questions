@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/fariskt/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1580-shuffle-the-array](https://github.com/fariskt/leetcode-questions/tree/master/1580-shuffle-the-array) |
+| [1791-richest-customer-wealth](https://github.com/fariskt/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/fariskt/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/fariskt/leetcode-questions/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/fariskt/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
