@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/fariskt/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/fariskt/leetcode-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fariskt/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/fariskt/leetcode-questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/fariskt/leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/fariskt/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/fariskt/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/fariskt/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/fariskt/leetcode-questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
