@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/fariskt/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/fariskt/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/fariskt/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/fariskt/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/fariskt/leetcode-questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fariskt/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/fariskt/leetcode-questions/tree/master/0742-to-lower-case) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/fariskt/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/fariskt/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/fariskt/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fariskt/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/1019-squares-of-a-sorted-array) |
 ## String Matching
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/fariskt/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/fariskt/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fariskt/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/fariskt/leetcode-questions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/fariskt/leetcode-questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
