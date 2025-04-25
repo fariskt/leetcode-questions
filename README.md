@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fariskt/leetcode-questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/fariskt/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/fariskt/leetcode-questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/fariskt/leetcode-questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fariskt/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/fariskt/leetcode-questions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/fariskt/leetcode-questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/fariskt/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fariskt/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/fariskt/leetcode-questions/tree/master/0392-is-subsequence) |
@@ -238,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/fariskt/leetcode-questions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/fariskt/leetcode-questions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
