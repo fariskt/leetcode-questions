@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fariskt/leetcode-questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/fariskt/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/fariskt/leetcode-questions/tree/master/1635-number-of-good-pairs) |
+| [2238-a-number-after-a-double-reversal](https://github.com/fariskt/leetcode-questions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fariskt/leetcode-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/fariskt/leetcode-questions/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/fariskt/leetcode-questions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
