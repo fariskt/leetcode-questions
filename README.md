@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/fariskt/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/fariskt/leetcode-questions/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/fariskt/leetcode-questions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fariskt/leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/fariskt/leetcode-questions/tree/master/2502-sort-the-people) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/fariskt/leetcode-questions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/fariskt/leetcode-questions/tree/master/1205-defanging-an-ip-address) |
 | [1944-truncate-sentence](https://github.com/fariskt/leetcode-questions/tree/master/1944-truncate-sentence) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fariskt/leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/fariskt/leetcode-questions/tree/master/2235-capitalize-the-title) |
 | [2502-sort-the-people](https://github.com/fariskt/leetcode-questions/tree/master/2502-sort-the-people) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/fariskt/leetcode-questions/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/fariskt/leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/fariskt/leetcode-questions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
