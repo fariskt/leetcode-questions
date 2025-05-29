@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/fariskt/leetcode-questions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/fariskt/leetcode-questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/fariskt/leetcode-questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/fariskt/leetcode-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/fariskt/leetcode-questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/fariskt/leetcode-questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/fariskt/leetcode-questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/fariskt/leetcode-questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fariskt/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/fariskt/leetcode-questions/tree/master/0134-gas-station) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/fariskt/leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/fariskt/leetcode-questions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/fariskt/leetcode-questions/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
