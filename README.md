@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/fariskt/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/fariskt/leetcode-questions/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/fariskt/leetcode-questions/tree/master/1635-number-of-good-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/fariskt/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/fariskt/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/fariskt/leetcode-questions/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/fariskt/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/fariskt/leetcode-questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fariskt/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/fariskt/leetcode-questions/tree/master/0742-to-lower-case) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fariskt/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/fariskt/leetcode-questions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/fariskt/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/fariskt/leetcode-questions/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fariskt/leetcode-questions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/fariskt/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/fariskt/leetcode-questions/tree/master/1635-number-of-good-pairs) |
 ## Number Theory
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/fariskt/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/fariskt/leetcode-questions/tree/master/0948-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/fariskt/leetcode-questions/tree/master/3226-minimum-number-game) |
 ## Simulation
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/fariskt/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/fariskt/leetcode-questions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
