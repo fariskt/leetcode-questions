@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/fariskt/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/fariskt/leetcode-questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/fariskt/leetcode-questions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/fariskt/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/fariskt/leetcode-questions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/fariskt/leetcode-questions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/fariskt/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/fariskt/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/fariskt/leetcode-questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/fariskt/leetcode-questions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/fariskt/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/fariskt/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/fariskt/leetcode-questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fariskt/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/fariskt/leetcode-questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/fariskt/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/fariskt/leetcode-questions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fariskt/leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/fariskt/leetcode-questions/tree/master/2274-keep-multiplying-found-values-by-two) |
