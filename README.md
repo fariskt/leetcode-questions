@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/fariskt/leetcode-questions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/fariskt/leetcode-questions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/fariskt/leetcode-questions/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/fariskt/leetcode-questions/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/fariskt/leetcode-questions/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/fariskt/leetcode-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/fariskt/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/fariskt/leetcode-questions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/fariskt/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/fariskt/leetcode-questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/fariskt/leetcode-questions/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
